@@ -1,3 +1,29 @@
 .list-group {
 	margin-top: 40px;
 }
+
+.container {
+	width: 100%;
+}
+
+body {
+	padding: none;
+	margin-left: none;
+	margin-bottom: 80px;
+}
+
+.navbar-fixed-bottom {
+	background-color: #f5f5f5;
+}
+
+.endnote {
+	text-align: center;
+}
+
+.inquiry {
+	text-align: right;
+}
+
+.btn-default {
+	margin: 0 auto;
+}
