@@ -4,12 +4,14 @@
 
 .container {
 	width: 100%;
+	margin: 0 auto;
 }
 
 body {
 	padding: none;
 	margin-left: none;
 	margin-bottom: 80px;
+
 }
 
 .navbar-fixed-bottom {
@@ -17,6 +19,7 @@ body {
 }
 
 .endnote {
+	margin-top: 0.3%;
 	text-align: center;
 }
 
@@ -24,6 +27,7 @@ body {
 	text-align: right;
 }
 
-.btn-default {
-	margin: 0 auto;
+.btn:hover {
+	background-color: red;
+	color: white;
 }
